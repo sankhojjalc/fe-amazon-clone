@@ -1,0 +1,266 @@
+{
+  "schema": [
+    {
+      "four-by-four": [
+        {
+          "title": "Appliances for your home | Up to 55% off",
+          "products": [
+            {
+              "name": "Air Condition",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?bbn=81107432031&rh=n%3A81107432031%2Cp_85%3A10440599031&_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=mFKf8&pd_rd_wg=eZ8X1&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Refrigerator",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?bbn=81107433031&rh=n%3A81107433031%2Cp_85%3A10440599031&_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=mFKf8&pd_rd_wg=eZ8X1&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Microwaves",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?bbn=84514739031&rh=n%3A84514739031%2Cp_85%3A10440599031&_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=mFKf8&pd_rd_wg=eZ8X1&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Washing Machines",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?bbn=84514739031&rh=n%3A84514739031%2Cp_85%3A10440599031&_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=mFKf8&pd_rd_wg=eZ8X1&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            }
+          ]
+        },
+        {
+          "title": "Starting ₹99 | Home improvement essentials",
+          "products": [
+            {
+              "name": "Spin mops,wipes & more",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?k=cleaning+supplies&rh=n%3A3704992031%2Cp_n_pct-off-with-tax%3A2665399031&_encoding=UTF8&content-id=amzn1.sym.8844e7df-0ffd-4ead-86ea-172bfc8bb1a0&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=0faPN&pd_rd_wg=eZ8X1&pf_rd_p=8844e7df-0ffd-4ead-86ea-172bfc8bb1a0&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Bathroom hardware &  accessories",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?k=bathroom+hardware+and+accessories&rh=n%3A3704992031%2Cp_n_pct-off-with-tax%3A2665399031&_encoding=UTF8&content-id=amzn1.sym.8844e7df-0ffd-4ead-86ea-172bfc8bb1a0&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=0faPN&pd_rd_wg=eZ8X1&pf_rd_p=8844e7df-0ffd-4ead-86ea-172bfc8bb1a0&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Hammers, screwdrivers & more",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?k=hand+tools&rh=n%3A3704992031%2Cp_n_pct-off-with-tax%3A2665399031&_encoding=UTF8&content-id=amzn1.sym.8844e7df-0ffd-4ead-86ea-172bfc8bb1a0&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=0faPN&pd_rd_wg=eZ8X1&pf_rd_p=8844e7df-0ffd-4ead-86ea-172bfc8bb1a0&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Extension boards, plugs & more",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?k=electricals&rh=n%3A3704992031%2Cp_72%3A1318477031%2Cp_n_pct-off-with-tax%3A2665399031&_encoding=UTF8&content-id=amzn1.sym.8844e7df-0ffd-4ead-86ea-172bfc8bb1a0&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=0faPN&pd_rd_wg=eZ8X1&pf_rd_p=8844e7df-0ffd-4ead-86ea-172bfc8bb1a0&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            }
+          ]
+        },
+        {
+          "title": "Revamp your home in style",
+          "products": [
+            {
+              "name": "Cushion covers, bedsheets & more",
+              "imagePath": "",
+              "url": "https://www.amazon.in/b/?_encoding=UTF8&node=1380442031&pd_rd_w=bSH8W&content-id=amzn1.sym.569eba29-f373-4451-bd8b-372f1bfe3109&pf_rd_p=569eba29-f373-4451-bd8b-372f1bfe3109&pf_rd_r=7JNGGYPYQ371DPNGHQBD&pd_rd_wg=eZ8X1&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Figurines, vases and more",
+              "imagePath": "",
+              "url": "https://www.amazon.in/b/?_encoding=UTF8&node=1380374031&pd_rd_w=bSH8W&content-id=amzn1.sym.569eba29-f373-4451-bd8b-372f1bfe3109&pf_rd_p=569eba29-f373-4451-bd8b-372f1bfe3109&pf_rd_r=7JNGGYPYQ371DPNGHQBD&pd_rd_wg=eZ8X1&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Home Storage",
+              "imagePath": "",
+              "url": "https://www.amazon.in/b/?_encoding=UTF8&node=1380510031&pd_rd_w=bSH8W&content-id=amzn1.sym.569eba29-f373-4451-bd8b-372f1bfe3109&pf_rd_p=569eba29-f373-4451-bd8b-372f1bfe3109&pf_rd_r=7JNGGYPYQ371DPNGHQBD&pd_rd_wg=eZ8X1&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Lighting solutions",
+              "imagePath": "",
+              "url": "https://www.amazon.in/b/?_encoding=UTF8&node=1380485031&pd_rd_w=bSH8W&content-id=amzn1.sym.569eba29-f373-4451-bd8b-372f1bfe3109&pf_rd_p=569eba29-f373-4451-bd8b-372f1bfe3109&pf_rd_r=7JNGGYPYQ371DPNGHQBD&pd_rd_wg=eZ8X1&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&ref_=pd_gw_unk"
+            }
+          ]
+        },
+        {
+          "title": "Starting ₹99 | Amazon Brands & more",
+          "products": [
+            {
+              "name": "Starting ₹189 | Waterbottles Starting ₹189",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?k=water+bottles&rh=n%3A976442031%2Cp_n_format_browse-bin%3A19560801031&_encoding=UTF8&content-id=amzn1.sym.6743d8c8-2c9c-4f07-87df-84836a7bb87a&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=VqMl9&pd_rd_wg=eZ8X1&pf_rd_p=6743d8c8-2c9c-4f07-87df-84836a7bb87a&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Upto 60% off | Storage & racks",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?i=kitchen&bbn=1379989031&rh=n%3A976442031%2Cn%3A5925789031%2Cn%3A1379989031%2Cp_n_format_browse-bin%3A19560801031&page=2&_encoding=UTF8&content-id=amzn1.sym.6743d8c8-2c9c-4f07-87df-84836a7bb87a&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=VqMl9&pd_rd_wg=eZ8X1&pf_rd_p=6743d8c8-2c9c-4f07-87df-84836a7bb87a&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Starting ₹99 | Toys & games",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?bbn=1350380031&rh=n%3A1350380031%2Cp_n_format_browse-bin%3A30678570031&_encoding=UTF8&content-id=amzn1.sym.6743d8c8-2c9c-4f07-87df-84836a7bb87a&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=VqMl9&pd_rd_wg=eZ8X1&pf_rd_p=6743d8c8-2c9c-4f07-87df-84836a7bb87a&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Upto 60% off | Jackets, dresses & more",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?i=fashion&bbn=16491484031&rh=n%3A16491484031%2Cp_89%3AAmazon+Brand+-+Eden+%26+Ivy%7CAmazon+Brand+-+House+%26+Shields%7CAmazon+Brand+-+INKAST%7CAmazon+Brand+-+Jam+%26+Honey%7CAmazon+Brand+-+Myx%7CAmazon+Brand+-+Symbol%2Cp_n_pct-off-with-tax%3A27060456031%2Cp_72%3A1318476031&s=date-desc-rank&hidden-keywords=-nightgown-kurta-&_encoding=UTF8&content-id=amzn1.sym.6743d8c8-2c9c-4f07-87df-84836a7bb87a&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=VqMl9&pd_rd_wg=eZ8X1&pf_rd_p=6743d8c8-2c9c-4f07-87df-84836a7bb87a&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            }
+          ]
+        },
+        {
+          "title": "Up to 60% off | Styles for men",
+          "products": [
+            {
+              "name": "Clothing",
+              "imagePath": "",
+              "url": "https://www.amazon.in/b?node=1968024031"
+            },
+            {
+              "name": "Footwear",
+              "imagePath": "",
+              "url": "https://www.amazon.in/b/?_encoding=UTF8&node=1983518031&pd_rd_w=mDpc6&content-id=amzn1.sym.f34116c1-3bbf-4330-a06d-35e88a4422a0&pf_rd_p=f34116c1-3bbf-4330-a06d-35e88a4422a0&pf_rd_r=7JNGGYPYQ371DPNGHQBD&pd_rd_wg=eZ8X1&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Watches",
+              "imagePath": "",
+              "url": "https://www.amazon.in/b/?_encoding=UTF8&node=2563504031&pd_rd_w=mDpc6&content-id=amzn1.sym.f34116c1-3bbf-4330-a06d-35e88a4422a0&pf_rd_p=f34116c1-3bbf-4330-a06d-35e88a4422a0&pf_rd_r=7JNGGYPYQ371DPNGHQBD&pd_rd_wg=eZ8X1&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Bags & wallets",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?i=fashion&rh=n%3A87295952031%2Cp_36%3A19900-&s=luggage&fs=true&_encoding=UTF8&content-id=amzn1.sym.f34116c1-3bbf-4330-a06d-35e88a4422a0&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=mDpc6&pd_rd_wg=eZ8X1&pf_rd_p=f34116c1-3bbf-4330-a06d-35e88a4422a0&pf_rd_r=7JNGGYPYQ371DPNGHQBD&qid=1690908433&rnid=1318502031&ref=pd_gw_unk"
+            }
+          ]
+        },
+        {
+          "title": "Starting ₹149 | Bestselling earbuds, headphones & more",
+          "products": [
+            {
+              "name": "Starting ₹249 | boAt",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?bbn=1388921031&rh=n%3A1388921031%2Cp_89%3AboAt&_encoding=UTF8&content-id=amzn1.sym.89fe74cb-0970-490a-9c37-320b78216a17&pd_rd_r=9f9b6973-4784-4d6f-9373-649a2228d66d&pd_rd_w=UMX5B&pd_rd_wg=w8yuQ&pf_rd_p=89fe74cb-0970-490a-9c37-320b78216a17&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&ref=pd_gw_unk"
+            },
+            {
+              "name": "Starting ₹349 | boult",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?i=electronics&bbn=1388921031&rh=n%3A1388921031%2Cp_89%3ABoult&_encoding=UTF8&content-id=amzn1.sym.89fe74cb-0970-490a-9c37-320b78216a17&pd_rd_r=9f9b6973-4784-4d6f-9373-649a2228d66d&pd_rd_w=UMX5B&pd_rd_wg=w8yuQ&pf_rd_p=89fe74cb-0970-490a-9c37-320b78216a17&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&ref=pd_gw_unk"
+            },
+            {
+              "name": "Starting ₹649 | Noise",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?k=noise&i=electronics&rh=n%3A1388921031%2Cp_n_condition-type%3A8609960031%2Cp_36%3A-200000&_encoding=UTF8&content-id=amzn1.sym.89fe74cb-0970-490a-9c37-320b78216a17&pd_rd_r=9f9b6973-4784-4d6f-9373-649a2228d66d&pd_rd_w=UMX5B&pd_rd_wg=w8yuQ&pf_rd_p=89fe74cb-0970-490a-9c37-320b78216a17&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&ref=pd_gw_unk"
+            },
+            {
+              "name": "Starting ₹149 | Zebronics",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?k=zebronics&i=electronics&rh=n%3A976419031%2Cn%3A29561348031%2Cp_89%3AZEBRONICS&_encoding=UTF8&content-id=amzn1.sym.89fe74cb-0970-490a-9c37-320b78216a17&pd_rd_r=9f9b6973-4784-4d6f-9373-649a2228d66d&pd_rd_w=UMX5B&pd_rd_wg=w8yuQ&pf_rd_p=89fe74cb-0970-490a-9c37-320b78216a17&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&ref=pd_gw_unk"
+            }
+          ]
+        },
+        {
+          "title": "Up to 60% off | Styles for women",
+          "products": [
+            {
+              "name": "Women's Clothing",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?i=apparel&bbn=29945467031&rh=n%3A1571271031%2Cn%3A1953602031%2Cn%3A11400137031%2Cn%3A29945467031%2Cp_n_specials_match%3A21618256031%2Cp_85%3A10440599031%2Cp_n_feature_nineteen_browse-bin%3A11301357031&s=apparel&dc&ds=v1%3A%2BhVZPdaILyY6IoUQroogq80u3hsE0%2FFUKKfM3PNzT2c&_encoding=UTF8&content-id=amzn1.sym.74f25a9d-e850-443b-a26a-da459bed7e95&pd_rd_r=9f9b6973-4784-4d6f-9373-649a2228d66d&pd_rd_w=gINcU&pd_rd_wg=w8yuQ&pf_rd_p=74f25a9d-e850-443b-a26a-da459bed7e95&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&qid=1668003576&rnid=11301356031&ref=pd_gw_unk"
+            },
+            {
+              "name": "Footwear + handbags",
+              "imagePath": "",
+              "url": "https://www.amazon.in/b/ref=women&handbag/?_encoding=UTF8&node=29802312031&pd_rd_w=gINcU&content-id=amzn1.sym.74f25a9d-e850-443b-a26a-da459bed7e95&pf_rd_p=74f25a9d-e850-443b-a26a-da459bed7e95&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&pd_rd_wg=w8yuQ&pd_rd_r=9f9b6973-4784-4d6f-9373-649a2228d66d&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Watches",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s/ref=mega_sv_s23_1_3_1_1/?_encoding=UTF8&rh=i%3Awatches%2Cn%3A2563505031&ie=UTF8&lo=watches&pd_rd_w=gINcU&content-id=amzn1.sym.74f25a9d-e850-443b-a26a-da459bed7e95&pf_rd_p=74f25a9d-e850-443b-a26a-da459bed7e95&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&pd_rd_wg=w8yuQ&pd_rd_r=9f9b6973-4784-4d6f-9373-649a2228d66d&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Fashion Jewellery",
+              "imagePath": "",
+              "url": "https://www.amazon.in/ref=fj/b/?_encoding=UTF8&node=5210079031&pd_rd_w=gINcU&content-id=amzn1.sym.74f25a9d-e850-443b-a26a-da459bed7e95&pf_rd_p=74f25a9d-e850-443b-a26a-da459bed7e95&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&pd_rd_wg=w8yuQ&pd_rd_r=9f9b6973-4784-4d6f-9373-649a2228d66d&ref_=pd_gw_unk"
+            }
+          ]
+        },
+        {
+          "title": "Starting ₹99 | Amazon Brands & more",
+          "products": [
+            {
+              "name": "Starting ₹189 | Waterbottles Starting ₹189",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?k=water+bottles&rh=n%3A976442031%2Cp_n_format_browse-bin%3A19560801031&_encoding=UTF8&content-id=amzn1.sym.6743d8c8-2c9c-4f07-87df-84836a7bb87a&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=VqMl9&pd_rd_wg=eZ8X1&pf_rd_p=6743d8c8-2c9c-4f07-87df-84836a7bb87a&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Upto 60% off | Storage & racks",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?i=kitchen&bbn=1379989031&rh=n%3A976442031%2Cn%3A5925789031%2Cn%3A1379989031%2Cp_n_format_browse-bin%3A19560801031&page=2&_encoding=UTF8&content-id=amzn1.sym.6743d8c8-2c9c-4f07-87df-84836a7bb87a&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=VqMl9&pd_rd_wg=eZ8X1&pf_rd_p=6743d8c8-2c9c-4f07-87df-84836a7bb87a&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Starting ₹99 | Toys & games",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?bbn=1350380031&rh=n%3A1350380031%2Cp_n_format_browse-bin%3A30678570031&_encoding=UTF8&content-id=amzn1.sym.6743d8c8-2c9c-4f07-87df-84836a7bb87a&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=VqMl9&pd_rd_wg=eZ8X1&pf_rd_p=6743d8c8-2c9c-4f07-87df-84836a7bb87a&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Upto 60% off | Jackets, dresses & more",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?i=fashion&bbn=16491484031&rh=n%3A16491484031%2Cp_89%3AAmazon+Brand+-+Eden+%26+Ivy%7CAmazon+Brand+-+House+%26+Shields%7CAmazon+Brand+-+INKAST%7CAmazon+Brand+-+Jam+%26+Honey%7CAmazon+Brand+-+Myx%7CAmazon+Brand+-+Symbol%2Cp_n_pct-off-with-tax%3A27060456031%2Cp_72%3A1318476031&s=date-desc-rank&hidden-keywords=-nightgown-kurta-&_encoding=UTF8&content-id=amzn1.sym.6743d8c8-2c9c-4f07-87df-84836a7bb87a&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=VqMl9&pd_rd_wg=eZ8X1&pf_rd_p=6743d8c8-2c9c-4f07-87df-84836a7bb87a&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            }
+          ]
+        },
+        {
+          "title": "Great Summer Sale | Brands in focus",
+          "products": [
+            {
+              "name": "Upto 40% off | Latest smart TVs",
+              "imagePath": "",
+              "url": "https://www.amazon.in/l/90035947031/?_encoding=UTF8&pd_rd_w=4kMey&content-id=amzn1.sym.afb0e2bd-3778-4302-92ad-898d144a406a&pf_rd_p=afb0e2bd-3778-4302-92ad-898d144a406a&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&pd_rd_wg=Uv6Bs&pd_rd_r=9d2608c4-b5fa-4d72-9450-4d2097267731&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Upto 45% off | Great deals on Pampers",
+              "imagePath": "",
+              "url": "https://www.amazon.in/s?i=kitchen&bbn=1379989031&rh=n%3A976442031%2Cn%3A5925789031%2Cn%3A1379989031%2Cp_n_format_browse-bin%3A19560801031&page=2&_encoding=UTF8&content-id=amzn1.sym.6743d8c8-2c9c-4f07-87df-84836a7bb87a&pd_rd_r=50958b83-9491-4735-9073-5f2d528ef1b5&pd_rd_w=VqMl9&pd_rd_wg=eZ8X1&pf_rd_p=6743d8c8-2c9c-4f07-87df-84836a7bb87a&pf_rd_r=7JNGGYPYQ371DPNGHQBD&ref=pd_gw_unk"
+            },
+            {
+              "name": "Upto 55% off | LG",
+              "imagePath": "",
+              "url": "https://www.amazon.in/b/?_encoding=UTF8&ie=UTF8&node=22937596031&pd_rd_w=4kMey&content-id=amzn1.sym.afb0e2bd-3778-4302-92ad-898d144a406a&pf_rd_p=afb0e2bd-3778-4302-92ad-898d144a406a&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&pd_rd_wg=Uv6Bs&pd_rd_r=9d2608c4-b5fa-4d72-9450-4d2097267731&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Upto30% off | TATA products",
+              "imagePath": "",
+              "url": "https://www.amazon.in/b/?_encoding=UTF8&node=96304756031&pd_rd_w=4kMey&content-id=amzn1.sym.afb0e2bd-3778-4302-92ad-898d144a406a&pf_rd_p=afb0e2bd-3778-4302-92ad-898d144a406a&pf_rd_r=HXNAWJ8DFYXWCCNZJSF5&pd_rd_wg=Uv6Bs&pd_rd_r=9d2608c4-b5fa-4d72-9450-4d2097267731&ref_=pd_gw_unk"
+            }
+          ]
+        },
+        {
+          "title": "One stop shop for all your wedding shopping",
+          "products": [
+            {
+              "name": "Shop for her",
+              "imagePath": "",
+              "url": "https://www.amazon.in/l/27014680031/?_encoding=UTF8&pd_rd_w=RIFHr&content-id=amzn1.sym.211d3c08-ef8f-4431-bf63-ee4eb0728d76&pf_rd_p=211d3c08-ef8f-4431-bf63-ee4eb0728d76&pf_rd_r=WNRJTWQ0EPN1JTVFYYCX&pd_rd_wg=iht5H&pd_rd_r=2c4eae12-3a03-4ba0-a229-ed8bef924d42&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Shop for him",
+              "imagePath": "",
+              "url": "https://www.amazon.in/l/27016227031/?_encoding=UTF8&pd_rd_w=RIFHr&content-id=amzn1.sym.211d3c08-ef8f-4431-bf63-ee4eb0728d76&pf_rd_p=211d3c08-ef8f-4431-bf63-ee4eb0728d76&pf_rd_r=WNRJTWQ0EPN1JTVFYYCX&pd_rd_wg=iht5H&pd_rd_r=2c4eae12-3a03-4ba0-a229-ed8bef924d42&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Pooja essentials",
+              "imagePath": "",
+              "url": "https://www.amazon.in/l/22962405031/?_encoding=UTF8&pd_rd_w=RIFHr&content-id=amzn1.sym.211d3c08-ef8f-4431-bf63-ee4eb0728d76&pf_rd_p=211d3c08-ef8f-4431-bf63-ee4eb0728d76&pf_rd_r=WNRJTWQ0EPN1JTVFYYCX&pd_rd_wg=iht5H&pd_rd_r=2c4eae12-3a03-4ba0-a229-ed8bef924d42&ref_=pd_gw_unk"
+            },
+            {
+              "name": "Explore the store",
+              "imagePath": "",
+              "url": "https://www.amazon.in/l/22422351031/?_encoding=UTF8&pd_rd_w=RIFHr&content-id=amzn1.sym.211d3c08-ef8f-4431-bf63-ee4eb0728d76&pf_rd_p=211d3c08-ef8f-4431-bf63-ee4eb0728d76&pf_rd_r=WNRJTWQ0EPN1JTVFYYCX&pd_rd_wg=iht5H&pd_rd_r=2c4eae12-3a03-4ba0-a229-ed8bef924d42&ref_=pd_gw_unk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hero-carousal": [
+        {
+          "name": "Great Summer Sale",
+          "url": "https://www.amazon.in/b/?_encoding=UTF8&node=23037349031&ref_=ine_gw_may24_cc_en_dat&pd_rd_w=guUjQ&content-id=amzn1.sym.b034a33f-23d0-4176-add6-180ad0ba99b2&pf_rd_p=b034a33f-23d0-4176-add6-180ad0ba99b2&pf_rd_r=H3ZYHP7Z6HHM92PC7DMA&pd_rd_wg=B66WV&pd_rd_r=189d6983-4fb3-4b8e-b8e1-e5cedc2f4b30"
+        }
+      ]
+    }
+  ]
+}
